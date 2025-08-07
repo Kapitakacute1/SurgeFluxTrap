@@ -97,12 +97,11 @@ Update `drosera.toml`:
 
 [traps.surge_flux]
 
+```solidity
 path = "out/SurgeFluxTrap.sol/SurgeFluxTrap.json"
-
 response_contract = "0x35D701B69C0852063f8c532bcA63352eCd31cA06"
-
 response_function = "transmit"
-
+```
 
 Apply:
 
